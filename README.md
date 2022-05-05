@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rusha-rashq
 - 👀 I’m interested in Web Dev, Cloud Computing and Artificial intelligence.
-- 🌱 I’m currently learning Networking.
+- 🌱 I’m currently learning Software Development.
 - 💞️ I’m looking to collaborate on Web Dev projects, learning and building new applications.
 - 📫 Reach me at rushdhar.1@gmail.com
 
